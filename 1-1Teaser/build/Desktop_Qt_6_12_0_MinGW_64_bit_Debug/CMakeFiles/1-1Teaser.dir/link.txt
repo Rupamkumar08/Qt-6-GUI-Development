@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\1-1Teaser.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\1-1Teaser.dir/objects.a @CMakeFiles\1-1Teaser.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\1-1Teaser.dir/objects.a -Wl,--no-whole-archive -o 1-1Teaser.exe -Wl,--out-implib,lib1-1Teaser.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1-1Teaser.dir\linkLibs.rsp
