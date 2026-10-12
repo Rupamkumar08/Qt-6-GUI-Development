@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7783f50a008699cc5290.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2-7GuessNumber",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2-7GuessNumber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-7GuessNumber-Debug-19063a64a8485aeaa09b.json",
+					"name" : "2-7GuessNumber",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTFramework/2-GettingStartedC++CrashCourse/2-7GuessNumber/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QTFramework/2-GettingStartedC++CrashCourse/2-7GuessNumber"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
