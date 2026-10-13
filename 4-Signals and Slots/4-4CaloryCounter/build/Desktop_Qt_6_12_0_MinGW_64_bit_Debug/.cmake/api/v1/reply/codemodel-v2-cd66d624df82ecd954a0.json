@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b2b57c675b41953c6bb9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4-4CaloryCounter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4-4CaloryCounter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-4CaloryCounter-Debug-1476e05099328f41a49b.json",
+					"name" : "4-4CaloryCounter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-4CaloryCounter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-4CaloryCounter_autogen-Debug-75557bed1bbdd1ca5d4c.json",
+					"name" : "4-4CaloryCounter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-4CaloryCounter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-4CaloryCounter_autogen_timestamp_deps-Debug-ab117f482bc0db7dba58.json",
+					"name" : "4-4CaloryCounter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTFramework/4-Signals and Slots/4-4CaloryCounter/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QTFramework/4-Signals and Slots/4-4CaloryCounter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
