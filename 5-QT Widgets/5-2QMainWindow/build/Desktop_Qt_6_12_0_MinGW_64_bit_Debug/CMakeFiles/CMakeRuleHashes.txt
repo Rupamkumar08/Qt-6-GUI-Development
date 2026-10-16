@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-b04a2ab1cfcd4882b927e9e93ca65194 5-2QMainWindow_autogen/timestamp
-c8dc08926867e39626a29d4b0cbe7cbf CMakeFiles/5-2QMainWindow_autogen
