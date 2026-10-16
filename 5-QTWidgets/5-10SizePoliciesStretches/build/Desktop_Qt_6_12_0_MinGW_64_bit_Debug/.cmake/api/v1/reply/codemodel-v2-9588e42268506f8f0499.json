@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6c2097cee71524a134f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "5-10SizePoliciesStretches",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "5-10SizePoliciesStretches::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-10SizePoliciesStretches-Debug-c5691d5d11abc9b51916.json",
+					"name" : "5-10SizePoliciesStretches",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-10SizePoliciesStretches_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-10SizePoliciesStretches_autogen-Debug-2dd06e05900d4c0b4cc0.json",
+					"name" : "5-10SizePoliciesStretches_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-10SizePoliciesStretches_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-10SizePoliciesStretches_autogen_timestamp_deps-Debug-e4e5514c58df2153b008.json",
+					"name" : "5-10SizePoliciesStretches_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTFramework/5-QTWidgets/5-10SizePoliciesStretches/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QTFramework/5-QTWidgets/5-10SizePoliciesStretches"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

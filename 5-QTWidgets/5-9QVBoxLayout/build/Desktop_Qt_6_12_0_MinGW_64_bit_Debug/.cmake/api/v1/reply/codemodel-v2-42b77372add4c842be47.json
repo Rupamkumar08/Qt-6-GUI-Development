@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5531fa814bdee9febbc6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "5-9QVBoxLayout",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "5-9QVBoxLayout::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-9QVBoxLayout-Debug-1791b94be5fbe9421666.json",
+					"name" : "5-9QVBoxLayout",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-9QVBoxLayout_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-9QVBoxLayout_autogen-Debug-67b6036efae4bb8048dd.json",
+					"name" : "5-9QVBoxLayout_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-9QVBoxLayout_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-9QVBoxLayout_autogen_timestamp_deps-Debug-62e32855e9435e84d199.json",
+					"name" : "5-9QVBoxLayout_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTFramework/5-QTWidgets/5-9QVBoxLayout/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QTFramework/5-QTWidgets/5-9QVBoxLayout"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
