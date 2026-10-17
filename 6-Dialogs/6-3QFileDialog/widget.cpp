@@ -64,6 +64,7 @@ void Widget::on_chooseButton_clicked()
 
 
     //getSaveFileName
+    /* Save file name under a directory */
     QString fileName = QFileDialog::getSaveFileName(this, "Save File",
                                                     QString(),
                                                     tr("Images (*.png *.xpm *.jpg)"));
