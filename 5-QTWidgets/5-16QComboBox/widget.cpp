@@ -25,7 +25,7 @@ Widget::~Widget()
 
 void Widget::on_captureButton_clicked()
 {
-    qDebug() << "The currently selectd item in the combo is : " <<
+    qDebug() << "The currently selected item in the combo is : " <<
         ui->comboBox->currentText() <<
         " and the index is :" << QString::number(ui->comboBox->currentIndex());
 }
