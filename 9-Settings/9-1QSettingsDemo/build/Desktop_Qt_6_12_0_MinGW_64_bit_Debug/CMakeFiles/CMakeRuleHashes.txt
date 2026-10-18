@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ecd1790045ccf7058937de4a62e817c2 9-1QSettingsDemo_autogen/timestamp
+fcc94c530195de3a9c9060b4cfad46ed CMakeFiles/9-1QSettingsDemo_autogen
