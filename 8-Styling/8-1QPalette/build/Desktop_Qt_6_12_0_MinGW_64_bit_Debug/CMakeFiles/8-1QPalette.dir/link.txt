@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\8-1QPalette.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\8-1QPalette.dir/objects.a @CMakeFiles\8-1QPalette.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\8-1QPalette.dir/objects.a -Wl,--no-whole-archive -o 8-1QPalette.exe -Wl,--out-implib,lib8-1QPalette.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\8-1QPalette.dir\linkLibs.rsp

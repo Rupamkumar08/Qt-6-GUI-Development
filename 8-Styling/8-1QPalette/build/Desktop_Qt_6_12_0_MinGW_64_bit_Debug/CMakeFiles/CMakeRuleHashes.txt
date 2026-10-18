@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+47b10765c21318d57e67cd43bd884f49 8-1QPalette_autogen/timestamp
+d763b1e920da3019979fc9bba37aea53 CMakeFiles/8-1QPalette_autogen
