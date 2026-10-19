@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+5d2c263ffeb2d03c6e9836dd377c9760 10-2QDirDemo_autogen/timestamp
+13f48b2523673649ddb48ce3e8625ff0 CMakeFiles/10-2QDirDemo_autogen
