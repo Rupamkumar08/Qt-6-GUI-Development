@@ -803,6 +803,7 @@ CMakeFiles/11-4QListViewQStringListModel.dir/main.cpp.obj
 
 CMakeFiles/11-4QListViewQStringListModel.dir/widget.cpp.obj
  D:/QTFramework/11-ModelViewArchitecture/11-4QListViewQStringListModel/widget.cpp
+ C:/Qt/6.12.0/mingw_64/include/QtCore/QDebug
  C:/Qt/6.12.0/mingw_64/include/QtCore/QStringListModel
  C:/Qt/6.12.0/mingw_64/include/QtCore/QVariant
  C:/Qt/6.12.0/mingw_64/include/QtCore/q17memory.h

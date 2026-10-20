@@ -800,6 +800,7 @@ CMakeFiles/11-4QListViewQStringListModel.dir/main.cpp.obj: D:/QTFramework/11-Mod
   D:/QTFramework/11-ModelViewArchitecture/11-4QListViewQStringListModel/widget.h
 
 CMakeFiles/11-4QListViewQStringListModel.dir/widget.cpp.obj: D:/QTFramework/11-ModelViewArchitecture/11-4QListViewQStringListModel/widget.cpp \
+  C:/Qt/6.12.0/mingw_64/include/QtCore/QDebug \
   C:/Qt/6.12.0/mingw_64/include/QtCore/QStringListModel \
   C:/Qt/6.12.0/mingw_64/include/QtCore/QVariant \
   C:/Qt/6.12.0/mingw_64/include/QtCore/q17memory.h \
@@ -1516,6 +1517,8 @@ C:/Qt/6.12.0/mingw_64/include/QtWidgets/qabstractitemdelegate.h:
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc:
 
 C:/Qt/6.12.0/mingw_64/include/QtCore/qsharedpointer.h:
+
+C:/Qt/6.12.0/mingw_64/include/QtCore/QDebug:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h:
 
