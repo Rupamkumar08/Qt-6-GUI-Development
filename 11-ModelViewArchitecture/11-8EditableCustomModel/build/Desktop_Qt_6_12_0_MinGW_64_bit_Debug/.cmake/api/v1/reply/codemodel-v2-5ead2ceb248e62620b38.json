@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e97bf9bf9eded983084c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "11-8EditableCustomModel",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "11-8EditableCustomModel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11-8EditableCustomModel-Debug-f0b3345e15d6af5aadd4.json",
+					"name" : "11-8EditableCustomModel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11-8EditableCustomModel_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11-8EditableCustomModel_autogen-Debug-df4acbf2ce3e9312fecf.json",
+					"name" : "11-8EditableCustomModel_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11-8EditableCustomModel_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11-8EditableCustomModel_autogen_timestamp_deps-Debug-81f49b8549e4621374b6.json",
+					"name" : "11-8EditableCustomModel_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTFramework/11-ModelViewArchitecture/11-8EditableCustomModel/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "D:/QTFramework/11-ModelViewArchitecture/11-8EditableCustomModel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
